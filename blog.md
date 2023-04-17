@@ -32,7 +32,7 @@ Add   1. My Name
 
 <!-- Header Section -->
 
-# <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> project Name
+# <a href="--------------------" target="_blank"> <img src="https://user-images.githubusercontent.com/83578068/185099071-1dacfa46-a984-4cbb-8a2e-16960c5f9995.png" alt="Lamp 3D Image" width="40" border="10" /> </a> Topic Name
 
 [`Live-In-Production Demo`](---------------) |  [`article`](------------------) _______________________ *Individual/In Group Project* | *Duration: 2 days*
 
@@ -43,7 +43,7 @@ Add   1. My Name
 
 <!-- About the Project Section -->
 
- <a href="---------------" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/83578068/185099164-b88af55f-ef6b-4ce4-8feb-46381779f04f.png"   alt=" file 3D Image" width="100" border="10"/> </a> 
+ <a href="---------------" target="_blank" > <img align="left"  src="https://user-images.githubusercontent.com/109365075/232436540-015293ff-beb8-458d-b2cc-e7e88cee5692.png"   alt=" file 3D Image" /> </a> 
 
 
 
