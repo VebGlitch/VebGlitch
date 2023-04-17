@@ -86,7 +86,7 @@ alt="jubin yt video" width="240"  border="10" /></a>
 
  <!-- moving text -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&width=600&height=100&lines=thank+you+so+much%2C+have+a+great+day+!)](https://github.com/NileshNama)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&width=600&height=100&lines=thank+you+so+much%2C+have+a+great+day+!)](https://github.com/VebGlitch)
 
 <!-- End of the File by NileshNama NileshNama and MIT Licensed-->
  
