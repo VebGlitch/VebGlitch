@@ -71,7 +71,10 @@ alt="jubin yt video" width="240"  border="10" /></a>
 
 --> 
 
+---
 
+[`NoteBook`](https://github.com/VebGlitch/NoteBook) Nilesh's curated Notes-Library. [`ProjectLab`](https://github.com/VebGlitch/ProjectLab) repository serves as a directory that helps you easily navigate through various projects I have completed.
+[`ProjectsTab`](https://github.com/VebGlitch?query=is%3Aopen+sort%3Acreated-asc&tab=projects) to navigate my current working projects workflow. [`Gist`](https://gist.github.com/VebGlitch) serves as a all my code, notes, and snippets.
 
 
 
